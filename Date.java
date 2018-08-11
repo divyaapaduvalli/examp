@@ -5,6 +5,7 @@ public class Date {
     private int year;
     Date(int d,int m,int y){
         System.out.println("yesss");
+        System.out.println("nooooo");
         if(d>0&&d<31) {
             day = d;
         }
