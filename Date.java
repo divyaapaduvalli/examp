@@ -7,6 +7,14 @@ public class Date {
         System.out.println("yesss");
         System.out.println("nooooo");
         if(d>0&&d<31) {
+
+
+
+   ///gitttttttttttttt
+            System.out.println("invalid day");
+            System.out.println("invalid day");
+            System.out.println("invalid day");
+
             day = d;
         }
 
