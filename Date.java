@@ -1,4 +1,3 @@
-package assignment1;
 public class Date {
     static int[] daysInMonth = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
     private int day;
@@ -6,6 +5,14 @@ public class Date {
     private int year;
     Date(int d,int m,int y){
         if(d>0&&d<31) {
+
+
+
+   ///gitttttttttttttt
+            System.out.println("invalid day");
+            System.out.println("invalid day");
+            System.out.println("invalid day");
+
             day = d;
         }
         else{
