@@ -5,8 +5,17 @@ public class Date {
     private int year;
     Date(int d,int m,int y){
         System.out.println("yesss");
-        System.out.println("noooo");
+        System.out.println("nooooooooooooooooooooooooooo");
+        System.out.println("yesss");
         if(d>0&&d<31) {
+
+
+
+   ///gitttttttttttttt
+            System.out.println("invalid day");
+            System.out.println("invalid day");
+            System.out.println("invalid day");
+
             day = d;
         }
 
